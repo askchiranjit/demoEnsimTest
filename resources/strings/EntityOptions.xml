@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<root>
+	<Menu>
+		<key>ID</key>
+		<value>entities</value>
+	</Menu>
+
+	<Org>
+		<key>Xpath</key>
+		<value>//a[contains(text(),'Organizations')]</value>
+	</Org>
+	
+	<Agents>
+		<key>Xpath</key>
+		<value>//a[text()='Agents']</value>
+	</Agents>
+	
+	<ResellersLnk>
+		<key>Xpath</key>
+		<value>//a[text()='Resellers']</value>
+	</ResellersLnk>
+	
+	<MyOrganizationLnk>
+		<key>Xpath</key>
+		<value>//a[text()='My Organization']</value>
+	</MyOrganizationLnk>
+
+	<UsersLnk>
+		<key>Xpath</key>
+		<value>//a[text()='Users']</value>
+	</UsersLnk>
+	
+</root>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<root>
+	<AgentNameTxt>
+		<key>ID</key>
+		<value>name</value>
+	</AgentNameTxt>
+	
+	<VATNumberTxt>
+		<key>ID</key>
+		<value>vat_number</value>
+	</VATNumberTxt>
+	
+	<UsernameSuffixTxt>
+		<key>ID</key>
+		<value>business_unit_upn_suffix</value>
+	</UsernameSuffixTxt>
+	
+	<ConfUsernameSuffixTxt>
+		<key>ID</key>
+		<value>business_unit_upn_suffix_confirm</value>
+	</ConfUsernameSuffixTxt>
+	
+<CommunicationLanguageLst>
+	<key>ID</key>
+	<value>communication_language</value>
+</CommunicationLanguageLst>
+
+<BillingLanguageLst>
+	<key>ID</key>
+	<value>billing_language</value>
+</BillingLanguageLst>
+
+<EmailaddressTxt>
+	<key>ID</key>
+	<value>email</value>
+</EmailaddressTxt>
+
+<DateTimeLst>
+	<key>ID</key>
+	<value>datetimeformat</value>
+</DateTimeLst>
+
+<BoxNumberTxt>
+	<key>ID</key>
+	<value>partner_address.box_number</value>
+</BoxNumberTxt>
+
+<StreetTxt>
+	<key>ID</key>
+	<value>partner_address.street</value>
+</StreetTxt>
+
+<CityTxt>
+	<key>ID</key>
+	<value>partner_address.city</value>
+</CityTxt>
+
+<AddressNumberTxt>
+	<key>ID</key>
+	<value>partner_address.address_number</value>
+</AddressNumberTxt>
+
+<PostalCodeTxt>
+	<key>ID</key>
+	<value>partner_address.postal_code</value>
+</PostalCodeTxt>
+
+<CountryLst>
+	<key>ID</key>
+	<value>country</value>
+</CountryLst>
+
+<CancelBtn>
+	<key>ID</key>
+	<value>wiz_cancel</value>
+</CancelBtn>
+
+<SaveBtn>
+	<key>ID</key>
+	<value>finalSave</value>
+</SaveBtn>
+
+<UPNErrorImage>
+	<key>Xpath</key>
+	<value>//span[@id='upnSuffixQueryResult1']//img[contains(@src,'cross.png')]</value>
+</UPNErrorImage>
+
+<UPNExistsImage>
+	<key>Xpath</key>
+	<value>//span[@id='upnSuffixQueryResult1']//img[contains(@src,'tick.png')]</value>
+</UPNExistsImage>
+
+</root>

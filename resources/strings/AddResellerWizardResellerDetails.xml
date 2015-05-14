@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<root>
+
+	<ResellerTypeLst>
+		<key>ID</key>
+		<value>resellerType</value>
+	</ResellerTypeLst>
+	
+	<ResellerID>
+		<key>ID</key>
+		<value>reseller_id</value>
+	</ResellerID>
+
+	<ResellerNameTxt>
+		<key>ID</key>
+		<value>name</value>
+	</ResellerNameTxt>
+
+	<VATNumberTxt>
+		<key>ID</key>
+		<value>vat_number</value>
+	</VATNumberTxt>
+
+	<EmailCorrespondenceTxt>
+		<key>ID</key>
+		<value>email</value>
+	</EmailCorrespondenceTxt>
+
+	<EmaiReceiveFinancialDocumentsTxt>
+		<key>ID</key>
+		<value>billing_emails</value>
+	</EmaiReceiveFinancialDocumentsTxt>
+
+	<DomainNamesTxt>
+		<key>ID</key>
+		<value>dns_names</value>
+	</DomainNamesTxt>
+
+	<UsernameSuffixTxt>
+		<key>ID</key>
+		<value>business_unit_upn_suffix</value>
+	</UsernameSuffixTxt>
+
+	<ConfirmUsernameSuffixTxt>
+		<key>ID</key>
+		<value>business_unit_upn_suffix_confirm</value>
+	</ConfirmUsernameSuffixTxt>
+
+	<CustomizedLoginURLTxt>
+		<key>ID</key>
+		<value>cust_login_url</value>
+	</CustomizedLoginURLTxt>
+
+	<CommunicationLanguageLst>
+		<key>Name</key>
+		<value>communication_language</value>
+	</CommunicationLanguageLst>
+
+	<BillingLanguageLst>
+		<key>Name</key>
+		<value>billing_language</value>
+	</BillingLanguageLst>
+
+	<DateTimeFormatLst>
+		<key>Name</key>
+		<value>datetimeformat</value>
+	</DateTimeFormatLst>
+	
+	<LoginContentURLTxt>
+	<key>ID</key>
+	<value>dynamicContentUrl</value>
+	</LoginContentURLTxt>
+
+<PortalURLTxt>
+	<key>ID</key>
+	<value>externalURL</value>
+</PortalURLTxt>
+
+<HomeURLTxt>
+	<key>ID</key>
+	<value>reseller_db_home_url</value>
+</HomeURLTxt>
+
+<SupportURLTxt>
+	<key>ID</key>
+	<value>reseller_db_support_url</value>
+</SupportURLTxt>
+
+<NewsURLTxt>
+	<key>ID</key>
+	<value>reseller_db_news_url</value>
+</NewsURLTxt>
+
+<PhoneNumberTxt>
+	<key>ID</key>
+	<value>partner_address.phone</value>
+</PhoneNumberTxt>
+
+<FaxTxt>
+	<key>ID</key>
+	<value>partner_address.fax</value>
+</FaxTxt>
+
+<Address1Txt>
+	<key>ID</key>
+	<value>address1</value>
+</Address1Txt>
+
+<Address2Txt>
+	<key>ID</key>
+	<value>address2</value>
+</Address2Txt>
+
+<StateProvinceTxt>
+	<key>ID</key>
+	<value>state_province</value>
+</StateProvinceTxt>
+
+<PostalCodeTxt>
+	<key>ID</key>
+	<value>partner_address.postal_code</value>
+</PostalCodeTxt>
+
+<CityTxt>
+	<key>ID</key>
+	<value>partner_address.city</value>
+</CityTxt>
+
+<CountryLst>
+	<key>ID</key>
+	<value>country</value>
+</CountryLst>
+	
+</root>

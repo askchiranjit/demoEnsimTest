@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+	<AddOrgBtn>
+		<key>ID</key>
+		<value>addCustOrgModalButton1</value>
+	</AddOrgBtn>
+	<SearchBtn>
+		<key>Xpath</key>
+		<value>//span[text()='Search']</value>
+	</SearchBtn>
+	
+</root>
